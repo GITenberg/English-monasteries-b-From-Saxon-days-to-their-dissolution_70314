@@ -1,0 +1,41 @@
+_repo: English-monasteries-b-From-Saxon-days-to-their-dissolution_70314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cox, J. Charles (John Charles)
+    alias: Cox, John Charles
+    birthdate: 1843
+    deathdate: 1919
+    gutenberg_agent_id: '45942'
+    url: http://www.gutenberg.org/2009/agents/45942
+    wikipedia: https://en.wikipedia.org/wiki/John_Charles_Cox
+description: Published anonymously as by "F. S. A.", but attributed to "the Rev. Dr.
+  Cox" in the Journal of the Derbyshire Archaeological and Natural History Society,
+  vol. 27 (June, 1905), p. 239.  J. Charles Cox (a native of Derbyshire) is "Rev.
+  J. Charles Cox, LL.D., F.S.A.", the "F.S.A." standing for "Fellow of the Royal Society
+  of Antiquaries."  He is referred to as "the Rev. Dr. Cox" in text quoted on p. viii
+  of the preface to his book "Three centuries of Derbyshire annals" (1890).
+gutenberg_issued: '2023-03-18'
+identifiers:
+  gutenberg: '70314'
+language: en
+pgterms:marc904: https://archive.org/details/englishmonasteri00londuoft
+pgterms:marc905: 20211226024816flint
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: MWS, David E. Brown, and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aUnited Kingdom :$bG. J. Palmer and Sons, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monasteries -- Great Britain'
+- !lcc 'BX'
+- GITenberg
+tableOfContents: Vocation -- The monastic tenants -- Education in monasteries -- Monastic
+  charities -- Monastic diet -- Monastic morality and forest courts -- Visitations
+  -- The two commissions of Henry VIII -- Concluding words.
+title: 'English monasteries : $b From Saxon days to their dissolution'
+url: http://www.gutenberg.org/ebooks/70314
