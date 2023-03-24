@@ -1,5 +1,8 @@
 _repo: English-monasteries-b-From-Saxon-days-to-their-dissolution_70314
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70314-h/images/cover.jpg
 creator:
   author:
     agent_name: Cox, J. Charles (John Charles)
@@ -15,6 +18,8 @@ description: Published anonymously as by "F. S. A.", but attributed to "the Rev.
   J. Charles Cox, LL.D., F.S.A.", the "F.S.A." standing for "Fellow of the Royal Society
   of Antiquaries."  He is referred to as "the Rev. Dr. Cox" in text quoted on p. viii
   of the preface to his book "Three centuries of Derbyshire annals" (1890).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70314#English-monasteries-b-From-Saxon-days-to-their-dissolution
 gutenberg_issued: '2023-03-18'
 identifiers:
   gutenberg: '70314'
